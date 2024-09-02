@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 const { Router } = require('express');
 // eslint-disable-next-line no-unused-vars
 const UserService = require('../../services/UserService');
